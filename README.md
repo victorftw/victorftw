@@ -29,3 +29,10 @@
 
 ### Studying in this moment:
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
+<div align="center">
+  <br>
+  <p align="center"><strong>Visitors Count</strong></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorftw}/count.svg" /></p> 
+  <br>
+</div>
