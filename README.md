@@ -23,6 +23,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-LINUX-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
@@ -30,6 +31,8 @@
 
 ### Studying in this moment:
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Jest](https://img.shields.io/badge/-jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117)&nbsp;
+![Cypress](https://img.shields.io/badge/-cypress-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117)&nbsp;
 
 <div align="center">
   <br>
