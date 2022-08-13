@@ -7,9 +7,10 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=victorftw&theme=gotham&hide_border=true&area=true)
 
-<p align="center">
+<div align="center" > 
   <img src="https://github-profile-trophy.vercel.app/?username=victorftw&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+  <img src="https://cdn.discordapp.com/attachments/469686256398237729/1007802796483039304/ezgif.com-gif-maker_1.gif" height="230px" />
+</div>
 
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
