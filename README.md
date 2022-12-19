@@ -38,7 +38,7 @@
 
 ### Studying in this moment:
 ![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-sql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![MYSQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 
 <div align="center">
